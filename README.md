@@ -1,5 +1,7 @@
 # cmocean_seadas
-Kristen Thyng et al. created more user-friendly oceanographic color palettes. See her GitHub site: https://github.com/matplotlib/cmocean
+cmocean colormaps for SeaDAS 7
+
+Kristen Thyng et al. created more user-friendly oceanographic color palettes. For more info see her GitHub site: https://github.com/matplotlib/cmocean
 
 I converted the color palettes into SeaDAS cpd format. 
 
