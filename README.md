@@ -9,3 +9,8 @@ Installation:
 
 Copy the cpd files of interest to the ~/.seadas/beam-ui/auxdata/color-palettes directory. 
 Restart SeaDAS and then they should be present.
+
+See screenshot:
+
+![alt text](https://github.com/gertvd-stanford/cmocean_seadas/blob/main/cmocean_algae_seadas.png)
+
